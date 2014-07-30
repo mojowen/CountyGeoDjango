@@ -1,7 +1,7 @@
 
 ### Instructions on how to set up GeoDjango with count data
 
-[From GeoDjango instructions](From https://docs.djangoproject.com/en/dev/ref/contrib/gis/install/postgis/#spatialdb-template)
+[From GeoDjango instructions](https://docs.djangoproject.com/en/dev/ref/contrib/gis/install/postgis/#spatialdb-template)
 
 Install postgis
 ````shell
