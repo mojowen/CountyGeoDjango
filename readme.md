@@ -43,8 +43,8 @@ Next, edit settings.py and add db configuration files, in `settings.py` add your
 DATABASES = {
     'default': {
          'ENGINE': 'django.contrib.gis.db.backends.postgis',
-         'NAME': 'geodjango',
-         'USER': 'scott',
+         'NAME': 'geodjango', # Your db name - geodjango from the step above
+         'USER': 'root', # Your db user
      }
 }
 ````
